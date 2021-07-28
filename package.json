@@ -1,0 +1,43 @@
+{
+  "name": "@philskat/create-webpack-app",
+  "version": "1.0.0",
+  "description": "Cli-package to setup a webpack-app",
+  "bin": "dist/cli.js",
+  "scripts": {
+    "start": "node dist/cli.js",
+    "build": "tsc",
+    "lint": "eslint . --ignore-path .gitignore",
+    "format": "prettier --write --ignore-path .gitignore .",
+    "prepublish": "tsc"
+  },
+  "keywords": [
+    "webpack",
+    "cli",
+    "starter"
+  ],
+  "author": "philskat",
+  "license": "SEE LICENSE IN LICENSE",
+  "dependencies": {
+    "inquirer": "^7.3.3",
+    "validate-npm-package-name": "^3.0.0"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^7.3.3",
+    "@types/node": "^16.4.5",
+    "@types/validate-npm-package-name": "^3.0.3",
+    "@typescript-eslint/eslint-plugin": "^4.28.5",
+    "@typescript-eslint/parser": "^4.28.5",
+    "eslint": "^7.31.0",
+    "eslint-config-prettier": "^8.3.0",
+    "prettier": "^2.3.2",
+    "typescript": "^4.3.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/philskat/create-webpack-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/philskat/create-webpack-app/issues"
+  },
+  "homepage": "https://github.com/philskat/create-webpack-app#readme"
+}
