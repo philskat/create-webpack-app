@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 import * as inquire from 'inquirer';
 import * as validate from 'validate-npm-package-name';
 import setupProject from './setupProject';

@@ -1,6 +1,6 @@
 {
   "name": "@philskat/create-webpack-app",
-  "version": "1.0.0",
+  "version": "0.0.2",
   "description": "Cli-package to setup a webpack-app",
   "bin": "dist/cli.js",
   "scripts": {
