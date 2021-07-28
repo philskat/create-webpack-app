@@ -1,13 +1,27 @@
-<h1 align="center" id="top">@philskat&#x2F;create Webpack App</h1>
+<h1 align="center" id="top">@philskat/create-webpack-app</h1>
 
 <p align="center">
-    <img alt="License" src="https://img.shields.io/github/license/philskat/create-webpack-app?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/philskat/create-webpack-app?color=blue">
 
-  <img alt="Github issues" src="https://img.shields.io/github/issues/philskat/create-webpack-app?color=56BEB8" />
+  <img alt="Github issues" src="https://img.shields.io/github/issues/philskat/create-webpack-app?color=success" />
 
-  <img alt="Github forks" src="https://img.shields.io/github/forks/philskat/create-webpack-app?color=56BEB8" />
+  <img alt="Github forks" src="https://img.shields.io/github/forks/philskat/create-webpack-app?color=success" />
 
-  <img alt="Github pull requests" src="https://img.shields.io/github/issues-pr/philskat/create-webpack-app?color=56BEB8">
+  <img alt="Github pull requests" src="https://img.shields.io/github/issues-pr/philskat/create-webpack-app?color=success">
+</p>
+
+<p align="center">
+  <a href="https://github.com/philskat/create-webpack-app/actions/workflows/ci.yml">
+    <img alt="CI" src="https://github.com/philskat/create-webpack-app/actions/workflows/ci.yml/badge.svg" />
+  </a>
+
+  <a href="https://github.com/philskat/create-webpack-app/actions/workflows/codeql.yml">
+    <img alt="CodeQL" src="https://github.com/philskat/create-webpack-app/actions/workflows/codeql.yml/badge.svg" />
+  </a>
+
+  <a href="https://www.npmjs.com/package/@philskat/create-webpack-app">
+    <img alt="npm version" src="https://img.shields.io/npm/v/@philskat/create-webpack-app?color=success">
+  </a>
 </p>
 
 <!-- Status -->
