@@ -18,7 +18,7 @@
   "author": "philskat",
   "license": "SEE LICENSE IN LICENSE",
   "dependencies": {
-    "inquirer": "^7.3.3",
+    "inquirer": "^8.1.2",
     "validate-npm-package-name": "^3.0.0"
   },
   "devDependencies": {
