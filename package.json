@@ -19,7 +19,7 @@
   "license": "SEE LICENSE IN LICENSE",
   "dependencies": {
     "inquirer": "^8.1.2",
-    "validate-npm-package-name": "^3.0.0"
+    "validate-npm-package-name": "^5.0.0"
   },
   "devDependencies": {
     "@types/inquirer": "^8.1.3",
